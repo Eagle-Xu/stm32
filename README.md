@@ -1,2 +1,2 @@
 # stm32
-for learn
+为了学习
